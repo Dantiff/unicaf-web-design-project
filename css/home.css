@@ -1,0 +1,4 @@
+/* CSS that is specific to the home page */
+#heroCarousel .carousel-caption .hero-text {
+  background: rgba(255, 255, 255, 0.4);
+}
