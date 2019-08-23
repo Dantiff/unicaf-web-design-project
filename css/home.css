@@ -82,7 +82,8 @@
 }
 
 /* The Social */
-.social {
+.social .col-sm {
+  height: 600px;
 }
 
 /* The Footer */
