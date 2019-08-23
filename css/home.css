@@ -85,6 +85,9 @@
 .social .col-sm {
   height: 600px;
 }
+.social .fb-container {
+  width: 310px;
+}
 
 /* The Footer */
 footer {
