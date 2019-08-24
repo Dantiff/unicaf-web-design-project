@@ -81,6 +81,45 @@
   background: rgba(255, 255, 255, 0.4);
 }
 
+/* The Services */
+.services {
+  margin-top: -150px;
+}
+.services .backgroundImg-1 {
+  background: linear-gradient(rgba(69, 109, 250, 0.8), rgba(69, 109, 250, 0.8)),
+    url('../assets/doctorate-cover.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 280px;
+}
+.services .backgroundImg-2 {
+  background: linear-gradient(rgba(178, 80, 148, 0.8), rgba(178, 80, 148, 0.8)),
+    url('../assets/doctorate-cover.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 280px;
+}
+.services .backgroundImg-2 {
+  background: linear-gradient(rgba(178, 80, 148, 0.8), rgba(178, 80, 148, 0.8)),
+    url('../assets/doctorate-cover.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 280px;
+}
+.services .backgroundImg-3 {
+  background: linear-gradient(rgba(43, 199, 201, 0.8), rgba(43, 199, 201, 0.8)),
+    url('../assets/doctorate-cover.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 280px;
+}
+.servies .title-1 {
+  /* services: '' */
+  font-family: Lato;
+  font-weight: 600;
+  color: white;
+}
+
 /* The Motivation */
 .motivation blockquote {
   max-width: 600px;
