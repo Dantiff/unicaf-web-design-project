@@ -111,7 +111,6 @@ footer {
   font-family: 'Lato', 'Arial' Helvetica, sans-serif;
   font-size: 12px;
   padding-top: 8vh;
-  padding-bottom: 4vh;
 }
 footer .h5 {
   font-size: 16px;
@@ -140,4 +139,14 @@ footer .rotate {
 footer .icon-row img {
   width: 40px;
   height: 40px;
+}
+
+/* The Secondary Footer */
+footer .secondary-footer {
+  height: 80px;
+  background: #1d2e35;
+  color: #ffffff;
+}
+footer .secondary-footer img {
+  width: 90px;
 }
