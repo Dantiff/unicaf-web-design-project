@@ -84,6 +84,11 @@
 /* The Services */
 .services {
   margin-top: -150px;
+  font-family: 'Lato', 'Arial' Helvetica, sans-serif;
+}
+.services h2 {
+  font-weight: 600;
+  color: white;
 }
 .services .backgroundImg-1 {
   background: linear-gradient(rgba(69, 109, 250, 0.8), rgba(69, 109, 250, 0.8)),
@@ -112,12 +117,6 @@
   background-size: cover;
   background-position: center;
   height: 280px;
-}
-.servies .title-1 {
-  /* services: '' */
-  font-family: Lato;
-  font-weight: 600;
-  color: white;
 }
 
 /* The Motivation */
